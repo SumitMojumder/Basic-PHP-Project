@@ -1,4 +1,4 @@
-# Basic-PHP-Project
+# PHP-Form
 This is a basic form project.
 
 Collects the user Name, Mobile, Email and Gender.
